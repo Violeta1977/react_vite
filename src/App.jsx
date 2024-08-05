@@ -14,10 +14,6 @@ function App() {
         <Hero />
         <Features />
         <Sponsors />
-
-        
-        
-        
       </main>
 
       <footer>
